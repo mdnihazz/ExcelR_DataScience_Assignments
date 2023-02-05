@@ -1,2 +1,2 @@
 # Assignments
-In this repository i upload my assignments 
+In this repository i upload assignments of ExcelR
